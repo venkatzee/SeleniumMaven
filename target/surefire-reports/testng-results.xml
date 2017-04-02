@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16240" started-at="2017-04-02T06:30:40Z" finished-at="2017-04-02T06:30:56Z">
+  <suite name="Suite" duration-ms="12965" started-at="2017-04-02T06:36:29Z" finished-at="2017-04-02T06:36:42Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="16240" started-at="2017-04-02T06:30:40Z" finished-at="2017-04-02T06:30:56Z">
+    <test name="Test" duration-ms="12965" started-at="2017-04-02T06:36:29Z" finished-at="2017-04-02T06:36:42Z">
       <class name="com.learnautomation.selenium.DemoforMaven">
-        <test-method status="PASS" signature="testVerifyTitle()[pri:0, instance:com.learnautomation.selenium.DemoforMaven@3c5a99da]" name="testVerifyTitle" duration-ms="16222" started-at="2017-04-02T12:00:40Z" finished-at="2017-04-02T12:00:56Z">
+        <test-method status="PASS" signature="testVerifyTitle()[pri:0, instance:com.learnautomation.selenium.DemoforMaven@3c5a99da]" name="testVerifyTitle" duration-ms="12940" started-at="2017-04-02T12:06:29Z" finished-at="2017-04-02T12:06:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testVerifyTitle -->
