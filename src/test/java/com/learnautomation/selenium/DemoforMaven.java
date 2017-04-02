@@ -21,6 +21,6 @@ public class DemoforMaven {
 		WebElement searchButton=driver.findElement(By.name("btnG"));
 		searchButton.click();
 		driver.quit();
-		System.out.println("Hello world");
+		//System.out.println("Hello world");
 	}
 }
