@@ -15,7 +15,7 @@ public class DemoforMaven {
 		System.setProperty("webdriver.gecko.driver", "C:\\AutomationJars\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://www.google.com");
-		Assert.assertTrue(driver.getTitle().contains("Gole"),driver.getTitle());
+		Assert.assertTrue(driver.getTitle().contains("Google"),driver.getTitle());
 		WebElement searchbox= driver.findElement(By.name("q"));
 		searchbox.sendKeys("csc");
 		WebElement searchButton=driver.findElement(By.name("btnG"));

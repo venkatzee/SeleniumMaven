@@ -1,11 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.786 sec <<< FAILURE! - in TestSuite
-testVerifyTitle(com.learnautomation.selenium.DemoforMaven)  Time elapsed: 10.048 sec  <<< FAILURE!
-java.lang.AssertionError: Google expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:494)
-	at org.testng.Assert.assertTrue(Assert.java:42)
-	at com.learnautomation.selenium.DemoforMaven.testVerifyTitle(DemoforMaven.java:18)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.208 sec - in TestSuite
